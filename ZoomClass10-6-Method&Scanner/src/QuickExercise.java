@@ -71,7 +71,7 @@ public class QuickExercise {
 
                 threeSamllest(13,5,10);
                 averageScanner();
-                passwordCheck("beef@123");
+                passwordCheck("pass@123");
             }
         }
 
